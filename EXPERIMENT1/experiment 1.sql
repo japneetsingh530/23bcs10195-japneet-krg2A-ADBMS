@@ -6,7 +6,7 @@
 --3.	Insert at least three records in each table.
 --4.	Perform an INNER JOIN to link each book with its author using the common author ID.
 --5.	Select the book title, author name, and author’s country.
-
+ 
 
 CREATE TABLE TBL_AUTHOR_DETAILS(
 	AUTHOR_ID INT PRIMARY KEY,
