@@ -6,7 +6,7 @@
 --Their manager’s name and department (if applicable)
 --This will help the HR department visualize the internal reporting hierarchy.
 
-CREATE TABLE TBL_EMPLOYEE(
+CREATE TABLE TBL_EMPLOYEE( 
 EMP_ID INT PRIMARY KEY,
 EMP_NAME VARCHAR(25),
 DEPARTMENT VARCHAR(25),
